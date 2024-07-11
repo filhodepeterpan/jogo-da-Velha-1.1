@@ -37,6 +37,7 @@ int main()
     classificaJogador(jogador1, jogador2);
 
     while (novoJogo==true){
+        vencedor="";
         while(marcacoes<=9){
             exibeTabuleiro(A, B, C);
 
@@ -144,6 +145,7 @@ int main()
         }
     }
     cout<<"\nObrigado por jogar :)\n\nDesenvolvido por Douglas Soares\nGithub: @filhodepeterpan";
-
+    system("pause");
+    
     return 0;
 }
