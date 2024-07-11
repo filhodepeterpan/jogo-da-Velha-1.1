@@ -145,7 +145,6 @@ int main()
         }
     }
     cout<<"\nObrigado por jogar :)\n\nDesenvolvido por Douglas Soares\nGithub: @filhodepeterpan\n\n";
-    system("pause");
     
     return 0;
 }
