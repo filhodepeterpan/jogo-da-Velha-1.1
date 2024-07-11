@@ -144,7 +144,7 @@ int main()
             novoJogo=false;
         }
     }
-    cout<<"\nObrigado por jogar :)\n\nDesenvolvido por Douglas Soares\nGithub: @filhodepeterpan";
+    cout<<"\nObrigado por jogar :)\n\nDesenvolvido por Douglas Soares\nGithub: @filhodepeterpan\n\n";
     system("pause");
     
     return 0;
